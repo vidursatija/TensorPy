@@ -4,8 +4,8 @@ TensorPy is a simple library to understand how automatic differentiation works w
 
 ## Installation
 ```bash
-git clone https://github.com/vidursatija/tensorpy
-cd tensorpy
+git clone https://github.com/vidursatija/TensorPy
+cd TensorPy
 pip install -r requirements.txt
 python3 setup.py install
 ```
